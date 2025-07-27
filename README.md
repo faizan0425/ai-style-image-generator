@@ -1,1 +1,1 @@
-# ai-style-image-generator
+https://devserver-main--wwwzantechindia.netlify.app
